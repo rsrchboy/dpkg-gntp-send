@@ -1,3 +1,9 @@
+gntp-send (0.3.2-1precise~13.10~ppa1) saucy; urgency=low
+
+  * Build for saucy.
+
+ -- Chris Weyl <cweyl@alumni.drew.edu>  Sun, 03 Nov 2013 17:20:23 -0800
+
 gntp-send (0.3.2-1precise) precise; urgency=low
 
   * backport to dist precise
