@@ -1,0 +1,12 @@
+Source: gntp-send
+Section: net
+Priority: optional
+Maintainer: Yasuhiro Matsumoto <mattn.jp@gmail.com>
+Build-Depends: debhelper (>= 7), autotools-dev
+Standards-Version: 3.8.3
+Homepage: http://github.com/mattn/gntp-send
+
+Package: gntp-send
+Architecture: any
+Depends: 
+Description: An application to send growl message with GNTP protocol.

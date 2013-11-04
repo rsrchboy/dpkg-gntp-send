@@ -1,0 +1,239 @@
+gntp-send (0.3.2-1precise) precise; urgency=low
+
+  * backport to dist precise
+
+ -- mattn <mattn@donkey>  Sat, 12 May 2012 23:34:00 +0900
+
+gntp-send (0.3.2-1oneiric) oneiric; urgency=low
+
+  * backport to dist oneiric
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 17 Mar 2012 03:27:44 +0900
+
+gntp-send (0.3.2-1maverick) maverick; urgency=low
+
+  * backport to dist maverick
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 17 Mar 2012 03:27:26 +0900
+
+gntp-send (0.3.2-1natty) natty; urgency=low
+
+  * backport to dist natty
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 17 Mar 2012 03:27:08 +0900
+
+gntp-send (0.3.2-1lucid) lucid; urgency=low
+
+  * backport to dist lucid
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 17 Mar 2012 03:26:45 +0900
+
+gntp-send (0.3.1-1oneiric) oneiric; urgency=low
+
+  * backport to dist oneiric
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 17 Mar 2012 03:18:54 +0900
+
+gntp-send (0.3.1-1maverick) maverick; urgency=low
+
+  * backport to dist maverick
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 17 Mar 2012 03:18:33 +0900
+
+gntp-send (0.3.1-1natty) natty; urgency=low
+
+  * backport to dist natty
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 17 Mar 2012 03:18:13 +0900
+
+gntp-send (0.3.1-1lucid) lucid; urgency=low
+
+  * backport to dist lucid
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 17 Mar 2012 03:17:53 +0900
+
+gntp-send (0.3.0-4oneiric) oneiric; urgency=low
+
+  * backport to dist oneiric
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 17 Mar 2012 03:05:18 +0900
+
+gntp-send (0.3.0-4maverick) maverick; urgency=low
+
+  * backport to dist maverick
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 17 Mar 2012 03:04:57 +0900
+
+gntp-send (0.3.0-4natty) natty; urgency=low
+
+  * backport to dist natty
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 17 Mar 2012 03:04:34 +0900
+
+gntp-send (0.3.0-4lucid) lucid; urgency=low
+
+  * backport to dist lucid
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 17 Mar 2012 03:04:10 +0900
+
+gntp-send (0.3.0-3oneiric) oneiric; urgency=low
+
+  * backport to dist oneiric
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 17 Mar 2012 02:51:46 +0900
+
+gntp-send (0.3.0-3maverick) maverick; urgency=low
+
+  * backport to dist maverick
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 17 Mar 2012 02:51:26 +0900
+
+gntp-send (0.3.0-3natty) natty; urgency=low
+
+  * backport to dist natty
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 17 Mar 2012 02:51:04 +0900
+
+gntp-send (0.3.0-3lucid) lucid; urgency=low
+
+  * backport to dist lucid
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 17 Mar 2012 02:50:44 +0900
+
+gntp-send (0.3.0-2oneiric) oneiric; urgency=low
+
+  * backport to dist oneiric
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 17 Mar 2012 02:49:09 +0900
+
+gntp-send (0.3.0-2maverick) maverick; urgency=low
+
+  * backport to dist maverick
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 17 Mar 2012 02:48:59 +0900
+
+gntp-send (0.3.0-2natty) natty; urgency=low
+
+  * backport to dist natty
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 17 Mar 2012 02:48:47 +0900
+
+gntp-send (0.3.0-2lucid) lucid; urgency=low
+
+  * backport to dist lucid
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 17 Mar 2012 02:48:33 +0900
+
+gntp-send (0.3.0-2oneiric) oneiric; urgency=low
+
+  * backport to dist oneiric
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Wed, 14 Mar 2012 03:08:03 +0900
+
+gntp-send (0.3.0-2maverick) maverick; urgency=low
+
+  * backport to dist maverick
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Wed, 14 Mar 2012 03:07:42 +0900
+
+gntp-send (0.3.0-2natty) natty; urgency=low
+
+  * backport to dist natty
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Wed, 14 Mar 2012 03:07:20 +0900
+
+gntp-send (0.3.0-2lucid) lucid; urgency=low
+
+  * backport to dist lucid
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Wed, 14 Mar 2012 03:06:57 +0900
+
+gntp-send (0.3.0-1oneiric) oneiric; urgency=low
+
+  * backport to dist oneiric
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Tue, 13 Mar 2012 23:30:10 +0900
+
+gntp-send (0.3.0-1maverick) maverick; urgency=low
+
+  * backport to dist maverick
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Tue, 13 Mar 2012 23:29:18 +0900
+
+gntp-send (0.3.0-1natty) natty; urgency=low
+
+  * backport to dist natty
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Tue, 13 Mar 2012 23:28:56 +0900
+
+gntp-send (0.3.0-1lucid) lucid; urgency=low
+
+  * backport to dist lucid
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Tue, 13 Mar 2012 23:28:35 +0900
+
+gntp-send (0.2-1quilt) quilt; urgency=low
+
+  * backport to dist quilt
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 10 Mar 2012 21:59:11 +0900
+
+gntp-send (0.2-1oneiric) oneiric; urgency=low
+
+  * backport to dist oneiric
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 10 Mar 2012 21:58:50 +0900
+
+gntp-send (0.2-1maverick) maverick; urgency=low
+
+  * backport to dist maverick
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 10 Mar 2012 21:58:29 +0900
+
+gntp-send (0.2-1natty) natty; urgency=low
+
+  * backport to dist natty
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 10 Mar 2012 21:58:02 +0900
+
+gntp-send (0.2-1lucid) lucid; urgency=low
+
+  * backport to dist lucid
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 10 Mar 2012 21:57:37 +0900
+
+gntp-send (-1lucid) lucid; urgency=low
+
+  * backport to dist lucid
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Sat, 10 Mar 2012 21:57:25 +0900
+
+gntp-send (0.1-1maverick) maverick; urgency=low
+
+  * backport to dist maverick
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Thu, 04 Aug 2011 00:59:17 +0900
+
+gntp-send (0.1-1natty) natty; urgency=low
+
+  * backport to dist natty
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Thu, 04 Aug 2011 00:58:55 +0900
+
+gntp-send (0.1-1lucid) lucid; urgency=low
+
+  * backport to dist lucid
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Thu, 04 Aug 2011 00:58:34 +0900
+
+gntp-send (-1lucid) lucid; urgency=low
+
+  * backport to dist lucid
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Thu, 04 Aug 2011 00:57:54 +0900
+
+gntp-send (0.1-1) lucid; urgency=low
+
+  * Initial release.
+
+ -- Yasuhiro Matsumoto <mattn.jp@gmail.com>  Thu, 04 Aug 2011 00:35:37 +0900
