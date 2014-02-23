@@ -1,3 +1,9 @@
+gntp-send (0.3.2-1precise~14.04~ppa1) trusty; urgency=low
+
+  * Build for trusty.
+
+ -- Chris Weyl <cweyl@alumni.drew.edu>  Sun, 23 Feb 2014 12:56:43 -0800
+
 gntp-send (0.3.2-1precise) precise; urgency=low
 
   * backport to dist precise
